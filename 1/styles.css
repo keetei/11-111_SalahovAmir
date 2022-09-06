@@ -1,0 +1,134 @@
+
+table {
+    border-collapse: separate;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 0px;
+    width: 50%;
+}
+
+td {border: 2px solid rgb(190,190,190);}
+
+
+.firstLine {height: 150px;}
+
+.secondLine {height: 150px;}
+
+.thirdLine {height: 30px;}
+
+.fourthLine {height: 50px;}
+
+.fifthLine {height: 100px;}
+
+.sixthLine {height: 100px;}
+
+.column_one {width: 150px;}
+
+.column_two {width: 250px;}
+
+.column_three {width: 180px;}
+
+.column_four {width: 250px;}
+
+.firstLine_firstColumn {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0px 0px 35px;
+}
+
+.firstLine_secondColumn {
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.firstLine_fourthColumn {
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: -15px;
+}
+
+.one {
+    margin-left: 25px;
+    height: 10px;
+}
+
+.two {
+    margin-left: 12px;
+    height: 10px;
+}
+
+.three {
+    height: 10px;
+}
+
+.secondLine_firstColumn {
+    font-size: 15px;
+    font-style: italic;
+}
+
+.secondLine_secondColumn {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.secondLine_thirdColumn_null {
+    margin-left: 95px;
+}
+.secondLine_thirdColumn_O {
+    margin-left: 93px;
+}
+.thirdLine_secondColumn {
+    font-size: 12px;
+    color: darkblue;
+}
+
+.thirdLine_thirdColumn {
+    font-size: 12px;
+}
+
+.fourthLine_secondColumn {
+    font-size: 11px;
+    margin:0px 0px 20px;
+}
+
+.fourthLine_thirdColumn {
+    margin-left: 35px;
+}
+
+.fourthLine_fourthColumn {
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    top: -10px;
+}
+
+.fifthLine_firstColumn {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.fifthLine_secondColumn{margin-left: 100px}
+.submit {margin-left: 5px;}
+.search {margin-left: 10px;}
+
+
+.fifthLine_fourthColumn {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.sixthLine_firstColumn {line-height: 5px;}
+
+.sixthLine_secondColumn {line-height: 20px;}
+
+.sixthLine_thirdColumn {
+    position: relative;
+    top: -15px;
+}
+
+.sixthLine_secondColumn2 {
+    position: relative;
+    top: 12px;
+}
